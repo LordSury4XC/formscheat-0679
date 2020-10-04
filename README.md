@@ -11,4 +11,4 @@ You Win!
 Saya tidak bertanggung jawab apabila terjadi suatu masalah kepada user yang menggunakan Script ini, Termasuk bila Nilai anda Down :b
 Bila terjadi Bug harap Laporan melalui GitHub Message / Discussion 
 
-#33Jaya!
+:lazors:
