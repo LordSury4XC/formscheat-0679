@@ -1,7 +1,14 @@
 # formscheat-0679
-Ricardo Milos / Google Forms Cheat
-I'm here! Follow my Instagram @sury4xc_dxc And Subscribe my Youtube Channel! 
-https://www.youtube.com/channel/UCD6q4f7HpBBwn4JHOUxojsw
+Cheat Ujian Online / Ulangan Online :)
 
+Warning :
+Harap Gunakan dengan Extra Hati² karena ini akan berisiko bila ketahuan, kalau nggak ya nggak :v 
+Saya juga membuat Tool yang bisa menghalangi Script ini digunakan saat Ujian / Ulangan :b
+Instagram : @rthnofficial_
 
-If my Followers is 2000 And My subscriber is 1K I Will Upload the Project here! 
+You Win!
+
+Saya tidak bertanggung jawab apabila terjadi suatu masalah kepada user yang menggunakan Script ini, Termasuk bila Nilai anda Down :b
+Bila terjadi Bug harap Laporan melalui GitHub Message / Discussion 
+
+#33Jaya!
